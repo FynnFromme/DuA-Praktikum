@@ -1,0 +1,10 @@
+16.01.2019	aaaaaaaa
+20.01.2019	aaaaaaaaaa
+13.02.2019	aaaaaaaaaa
+13.02.2019	aaaaaaaaaa
+13.02.2019	aaaaaaaaaa
+18.02.2019	aaaaa
+25.02.2019	aaaaaaaaa
+25.02.2019	aaaaaaaaaa
+04.03.2019	aaaaaaaaaa
+04.03.2019	aaaaaaaaaa
